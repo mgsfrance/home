@@ -1,2 +1,0 @@
-# home
-Welcome to MGSFrance !
